@@ -14,7 +14,7 @@ This project analyzes a restaurant's menu and order data to derive actionable in
 * Most Items in a Single Order: It identifies the order with the most number of items and assesses how many orders had more than 12 items.
 # 3. Combining Menu Items and Order Details
 * Joining Tables: The script performs a LEFT JOIN between menu_items and order_details to link each item ordered with its corresponding menu entry.
-* Most and Least Ordered Items: It finds the most and least ordered menu items, identifying that "Hamburger" is the most ordered item, while "Chicken Tacos" is the least. * * This insight could indicate that the restaurant should continue offering hamburgers and reconsider offering chicken tacos.
+* Most and Least Ordered Items: It finds the most and least ordered menu items, identifying that "Hamburger" is the most ordered item, while "Chicken Tacos" is the least.This insight could indicate that the restaurant should continue offering hamburgers and reconsider offering chicken tacos.
 * Top 5 Orders by Spending: The script calculates the total spending of each order by summing up the prices of items ordered and lists the top 5 orders that spent the most money.
 # 4. Top-Spending Orders Insights
 * Highest Spending Order: The script delves deeper into the order with the highest spending (Order ID 440) and identifies that this customer spent the most on Italian dishes.
