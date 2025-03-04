@@ -1,4 +1,4 @@
-# Restaurant-order-analysis
+                                                           # Restaurant-order-analysis
 This project analyzes a restaurant's menu and order data to derive actionable insights for optimizing menu offerings and enhancing customer experience. By examining the menu items, pricing trends, and categorizing dishes by type, the script identifies key patterns such as the most and least expensive items, popular cuisines, and pricing strategies. It also dives into customer order behavior, highlighting order volume, spending patterns, and the most frequently ordered items. Combining menu and order details, the analysis reveals which items are most and least ordered, and identifies top-spending customers, particularly those favoring Italian dishes. The findings suggest opportunities to refine the menu by promoting high-value items and reconsidering less popular ones, while also offering promotions to encourage larger orders.
 # 1.Menu Item Analysis
 * Viewing Menu Items: The script starts by viewing the menu_items table to examine the list of items available on the restaurant's menu.
